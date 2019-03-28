@@ -1,3 +1,6 @@
+# Effenwick Pytorch
+This project has been made based on the [wandering007](https://github.com/wandering007) work [efficient_densenet_pytorch](https://github.com/wandering007/efficient_densenet_pytorch), so to them we give all the credit. 
+
 # efficient-densenet-pytorch
 
 Memory-Efficient Implementation of DenseNets, supporting both **DenseNet and DeseNet-BC series**.
